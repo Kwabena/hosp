@@ -1,0 +1,9 @@
+*~
+log/*
+tmp/*
+db/schema.rb
+.DS_Store
+.project
+*.orig
+*.sqlite3
+cleangit
