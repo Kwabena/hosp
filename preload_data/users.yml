@@ -1,0 +1,39 @@
+--- 
+users_001: 
+  created_at: 2010-05-21 13:44:49
+  crypted_password: 047672d536fee43b0083b7e90939be85fc8f580758ebcd6bc9b4e4c1b57119122fd547b1bf58cfb2158e415b82935f70a8a865f54f8e1fb29101cebde42f4a4a
+  current_login_at: 2010-05-21 13:44:48
+  current_login_ip: 127.0.0.1
+  email: hikwabena@gmail.com
+  failed_login_count: "0"
+  id: "3"
+  last_login_at: 
+  last_login_ip: 
+  last_request_at: 2010-05-21 14:07:53
+  login: hello
+  login_count: "1"
+  password_salt: 0SRwT2nlSmvJV9qEPAs2
+  perishable_token: VUbPBBNhNL_LzZiBUWWq
+  persistence_token: b4b4f2a1aa68f3d34c121aff3ec6164aa5645391c3ac5a6e80767825fcaf0858004d8273435e9fdd2a0fa2eb01297b7832efddf19b696a04003e0ca0806c2ca4
+  single_access_token: WC7_iUacvHsARffrufc6
+  updated_at: 2010-05-21 14:07:53
+  username: 
+users_002: 
+  created_at: 2010-05-21 14:13:26
+  crypted_password: 9e4cdcfa3834b49fcd7bc567f39da7fd2dc8a555d69fbdb4171e86858c27fcb72715adc7b34c39a856e995270ce0881095d15ca86b95c5af0c6295316b5351b0
+  current_login_at: 2010-05-21 14:13:26
+  current_login_ip: 127.0.0.1
+  email: kwabena.antwi-boasiako@yale.edu
+  failed_login_count: "0"
+  id: "4"
+  last_login_at: 
+  last_login_ip: 
+  last_request_at: 2010-05-21 14:17:30
+  login: kwabena
+  login_count: "1"
+  password_salt: kGE3tZRDaTHORh54uPw_
+  perishable_token: YsGttTDl2hCSuAIBs0pr
+  persistence_token: 12cf9151256fe34796cb114ee206aebd82f7dfa478f408af35e36d94cd8367ac1295cede224d36f2336b093c8acc4d757fe1326c1764cc03aecee897fbfa28ff
+  single_access_token: 7FfslbURJNAxuISMbYYK
+  updated_at: 2010-05-21 14:17:30
+  username: 
